@@ -1,0 +1,7 @@
+build/
+.idea*
+.DS_Store/
+cmake-build-debug/
+results/
+raster/
+dataset/
