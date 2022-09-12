@@ -2,9 +2,9 @@ cmake_minimum_required(VERSION 3.9)
 set(CMAKE_MODULE_PATH "${CMAKE_CURRENT_SOURCE_DIR}/CMakeModules")
 include(AppendCompilerFlags)
 
-project(2d-block-tree)
+project(k2-tree)
 set(PROJECT_VENDOR "Adrian Gomez Brandon")
-set(CMAKE_PROJECT_NAME "k2-trees")
+set(CMAKE_PROJECT_NAME "k2-tree")
 set(PROJECT_CONTACT "adrian.gbrandon@udc.es")
 
 
