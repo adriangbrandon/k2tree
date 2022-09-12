@@ -4,12 +4,12 @@ include(AppendCompilerFlags)
 
 project(2d-block-tree)
 set(PROJECT_VENDOR "Adrian Gomez Brandon")
-set(CMAKE_PROJECT_NAME "2d-block-tree")
+set(CMAKE_PROJECT_NAME "k2-trees")
 set(PROJECT_CONTACT "adrian.gbrandon@udc.es")
 
 
 #Change to "Debug" when you need it
-set(CMAKE_BUILD_TYPE "Debug")
+set(CMAKE_BUILD_TYPE "Release")
 
 # C++11 compiler Check
 if(NOT CMAKE_CXX_COMPILER_VERSION) # work around for cmake versions smaller than 2.8.10
